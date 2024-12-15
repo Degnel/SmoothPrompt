@@ -1,0 +1,38 @@
+{
+    "OpenAI": {
+        "o1-preview": {
+            "input": 128000,
+            "output": 32768
+        },
+        "o1-mini": {
+            "input": 128000,
+            "output": 65536
+        },
+        "gpt-4o": {
+            "input": 128000,
+            "output": 16384
+        },
+        "gpt-4o-mini": {
+            "input": 128000,
+            "output": 16384
+        }
+    },
+    "Anthopic": {
+        "claude-3-5-sonnet-20240620": {
+            "input": 200000,
+            "output": 8192
+        },
+        "claude-3-opus-20240229": {
+            "input": 200000,
+            "output": 4096
+        },
+        "claude-3-sonnet-20240229": {
+            "input": 200000,
+            "output": 4096
+        },
+        "claude-3-haiku-20240307": {
+            "input": 200000,
+            "output": 4096
+        }
+    }
+}

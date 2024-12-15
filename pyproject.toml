@@ -1,0 +1,16 @@
+[project]
+name = "smoothprompt"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "anthropic>=0.40.0",
+    "black>=24.10.0",
+    "colorama>=0.4.6",
+    "openai>=1.57.4",
+    "python-dotenv>=1.0.1",
+    "ruff>=0.8.3",
+    "tiktoken>=0.8.0",
+    "tqdm>=4.67.1",
+]

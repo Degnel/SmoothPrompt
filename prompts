@@ -1,0 +1,5 @@
+{
+    "image_description": "Donne moi une description de cette image. {_img}",
+    "question_image": "Répond à cette question sur cette image : {question} {photo_img}",
+    "summary": "Donne moi le résumé de ce texte : {text}"
+}
